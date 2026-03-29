@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background: #ffffff;
+  color: #0f172a;
+}
+/* Default — all pages can scroll */
+body {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
